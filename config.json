@@ -1,0 +1,9 @@
+{
+    "user_name": "mi_usuario",
+    
+    "spotify_client":{
+        "client_id":  "0d6f6f8ce48d4bbf9109a0210e24ad24",
+        "secret_key": ""
+    }
+    
+}
