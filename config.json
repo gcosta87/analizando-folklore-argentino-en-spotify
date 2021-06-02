@@ -1,9 +1,9 @@
 {
-    "user_name": "mi_usuario",
+    "user_name": "gcosta87",
     
     "spotify_client":{
         "client_id":  "0d6f6f8ce48d4bbf9109a0210e24ad24",
-        "secret_key": ""
+        "secret_key": "563c834173744142896347562d6c40e8"
     }
     
 }

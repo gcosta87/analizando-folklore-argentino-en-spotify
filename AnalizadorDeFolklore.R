@@ -27,25 +27,6 @@ inicializacion <- function(autenticacion=TRUE){
 # Calculo de Valoracion
 calcularValoracion <- function(energy=0,valence=0){
     valoracion <- 0;
-
-    # if(valence < 0.5 ){
-    #     valoracion <- (energy+valence)/2;
-    # }
-    # else{
-    #     if(valence < 0.75){
-    #         valoracion <- energy/2+valence;
-    #     }
-    #     else{
-    #         if(valence < 0.9){
-    #             # Contemplar 0.75 + 0.75 -> 1
-    #             valoracion <- energy/8+valence;
-    #         }
-    #         else{
-    #             valoracion <- energy/16+valence;
-    #         }
-    #     }
-    # }
-    # 
     
     if(energy <= 0.65){
         energy <- energy/16;

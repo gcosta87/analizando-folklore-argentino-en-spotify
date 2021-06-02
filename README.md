@@ -1,4 +1,4 @@
-# analizando-folklore-argentino-en-spotify
+# Analizando Folklore Argentino en Spotify
 Este repositorio intentará almacenar algunas pruebas de la API Spotify aplicadas al Folklore Argentino, utilizando R!.
 
 ## AnalizadorDeFolklore.R
@@ -16,7 +16,7 @@ Es un "pseudo-wrapper" de la API Spotify para R ([SpotifyR](https://github.com/c
 }
 ```
 
-Se intentará implementar funciones utiles y "comunes" en el analisis de canciones, playlist y/o artistas.
+Se intentará implementar funciones utiles y/o "comunes" en el analisis de canciones, playlist y/o artistas.
 
 ## analizarMiPlaylist.R
 
